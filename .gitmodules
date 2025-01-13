@@ -1,0 +1,9 @@
+[submodule "user-ddd"]
+	path = user-ddd
+	url = https://github.com/ndhuy3011/user-ddd.git
+[submodule "authen-ddd"]
+	path = authen-ddd
+	url = https://github.com/ndhuy3011/authen-ddd.git
+[submodule "proto-library"]
+	path = proto-library
+	url = https://github.com/ndhuy3011/proto-library.git

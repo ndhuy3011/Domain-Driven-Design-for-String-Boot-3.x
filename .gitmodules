@@ -7,3 +7,6 @@
 [submodule "proto-library"]
 	path = proto-library
 	url = https://github.com/ndhuy3011/proto-library.git
+[submodule "exceptions-ddd"]
+	path = exceptions-ddd
+	url = https://github.com/ndhuy3011/exceptions-ddd.git
